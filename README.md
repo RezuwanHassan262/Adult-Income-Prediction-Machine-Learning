@@ -54,9 +54,6 @@ The Adult Income Dataset is derived from census data and includes a range of dem
 
 ![Partial Dependence Plot](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/2.png)
 
-![Decision Tree Classifier (Small)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/3.png)
-
-![Decision Tree Classifier (Large)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/4.PNG)
 
 
 
@@ -70,7 +67,15 @@ The Adult Income Dataset is derived from census data and includes a range of dem
 
 I tried to predict the survival chances of passengers using different ML algorithms, Those are mentioned below with accuracy and relevant metrics.
 
-|             Algorithm             |   Mean Absolute Error   |
+
+![Decision Tree Classifier (Small)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/3.png)
+
+![Decision Tree Classifier (Large)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/4.PNG)
+
+The above 2 figures (Small and Large) are the decision tree classifier visualizations. The performances of the classifiers are given below, Mean Absolute Error (MAE) was utilized to evaluate the model performances.
+
+
+|          ML Algorithm             |   Mean Absolute Error   |
 | --------------------------------- |:-----------------------:|
 | Decision Tree Classifier (Small)  |          15.5           | 
 | Decision Tree Classifier (Large)  |          14.5           | 

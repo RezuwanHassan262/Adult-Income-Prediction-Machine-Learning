@@ -61,13 +61,13 @@ From the partial dependence plot above, we can infer,
       * Values 1–4 ("Not-in-family," "Own-child," and "Unmarried,"): These are relationship statuses like "Not-in-family," "Own-child," or "Unmarried," which are associated with much lower income probabilities.
       * Value 5 ("Wife") shows a slight increase in partial dependence compared to intermediate statuses but remains lower than "Husband."
 
-        Key Insight: Traditional roles like "Husband" have higher predicted income levels.
+     => Key Insight: Traditional roles like "Husband" have higher predicted income levels.
 
 2. Education: This plot shows the impact of years of education on income.
       * Education < 6 years: The partial dependence is flat and low, indicating little impact on income prediction.
       * Education > 10 years: As education increases beyond 10 years, the partial dependence sharply rises, peaking at around 15–16 years. Suggesting that advanced education strongly correlates with higher income predictions.
 
-        Key Insight: Education level is a strong predictor of income, and the effect becomes significant at higher levels of education.
+     => Key Insight: Education level is a strong predictor of income, and the effect becomes significant at higher levels of education.
 
 
 

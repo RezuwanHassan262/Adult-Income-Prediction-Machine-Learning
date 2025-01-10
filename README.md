@@ -48,6 +48,24 @@ The Adult Income Dataset is derived from census data and includes a range of dem
 **Relationship between features:** Trying to understand some features influence the model's output while averaging out the effects of other features using partial dependence plots.
 
 
+## Findings and Observations from the Data
+
+![Important Features (Random Forest)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/1.png)
+
+![Partial Dependence Plot](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/2.png)
+
+![Decision Tree Classifier (Small)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/3.png)
+
+![Decision Tree Classifier (Large)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/4.png)
+
+
+
+
+
+
+
+
+
 ## Predicting Survival using ML algorithms
 
 I tried to predict the survival chances of passengers using different ML algorithms, Those are mentioned below with accuracy and relevant metrics.

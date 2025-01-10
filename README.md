@@ -56,7 +56,7 @@ The Adult Income Dataset is derived from census data and includes a range of dem
 
 ![Decision Tree Classifier (Small)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/3.png)
 
-![Decision Tree Classifier (Large)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/4.png)
+![Decision Tree Classifier (Large)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/4.PNG)
 
 
 

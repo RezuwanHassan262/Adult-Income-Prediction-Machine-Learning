@@ -52,6 +52,12 @@ The Adult Income Dataset is derived from census data and includes a range of dem
 
 ![Important Features (Random Forest)](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/1.png)
 
+
+The figure above shows the relative importance of different features in determining the prediction of the model (Random Forest).
+
+Insight: The dominance of features like relationship and educational-num implies that the model strongly relies on social and educational factors to make predictions. 
+
+
 ![Partial Dependence Plot](https://raw.githubusercontent.com/RezuwanHassan262/Adult-Income-Prediction-Machine-Learning/main/figures/2.png)
 
 From the partial dependence plot above, we can infer,
